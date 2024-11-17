@@ -1,0 +1,80 @@
+{
+    "eventsArray": [
+        {
+            "key": 1,
+            "name": "Cultura 2024",
+            "doe": "June 2024",
+            "desc": "At Take a Bow, we believe that the stage is a canvas where stories come alive, emotions find expression, and creativity knows no bounds. As the official theatre club of CMRIT, we celebrate the art of storytelling through drama, mime, improv, and more.\n\nFor Cultura 2024, we bring you a vibrant lineup of events that showcase the magic of performance, the thrill of improvisation, and the power of expression. Whether you’re a seasoned performer or taking your first steps into theatre, we welcome you to join us in creating unforgettable moments.\n\nLet’s make Cultura 2024 a celebration of talent, passion, and the love for the stage!",
+            "isLive": false,
+            "bannerLink": "https://i.ibb.co/Jv5FDHk/Screenshot-2024-11-16-225733.png",
+            "regLink": "",
+            "photosLink": [
+                "https://i.ibb.co/Kz8Vfxk/IMG-0475.jpg",
+                "https://i.ibb.co/M6hFTCB/IMG-0490.jpg",
+                "https://i.ibb.co/L0HrhQf/IMG-9499.jpg",
+                "https://i.ibb.co/Wsh11jC/IMG-9524.jpg"
+            ],
+            "winners": []
+        },
+
+        {
+            "key": 2,
+            "name": "Aura 2023",
+            "doe" : "November 2023",
+            "desc": "Aura 2023, hosted by Take a Bow, celebrated the art of theatre with events like Monoact and Improv Battle. It showcased incredible talent, creativity, and passion, leaving the audience inspired and entertained. A vibrant celebration of performance and expression, Aura 2023 was truly unforgettable!.",
+            "isLive": false,
+            "bannerLink": "https://i.ibb.co/FJngh6T/DSC-4749.jpg",
+            "regLink": "",
+            "photosLink": ["https://i.ibb.co/pZXK1Tx/20230610-144454.jpg","https://i.ibb.co/vzNSKPG/DSC-4775.jpg"
+              
+
+            ],
+            "winners": []
+        },
+
+        {
+            "key": 12,
+            "name": "Script Flip ",
+            "doe" : "30/10/2024",
+            "desc": "Script Flip was a creative and fun event by Take a Bow, where teams reimagined popular movie scenes with a twist. Participants showcased their improvisation and acting skills, adding humor and creativity to every performance. A truly memorable experience of fun and spontaneity!",
+            "isLive": false,
+            "bannerLink": "https://i.ibb.co/ZHrgwtm/TAB-EVENT.png",
+            "regLink": "",
+            "photosLink": [
+                "https://i.ibb.co/QXNH3vX/IMG-20241030-144903.jpg",
+                "https://i.ibb.co/TP3bh4n/IMG-20241030-145211.jpg",
+                "https://i.ibb.co/m8zZbzd/IMG-20241030-150344.jpg",
+                "https://i.ibb.co/8sZd6hB/IMG-20241030-145430.jpg"
+            ],
+            "winners": []
+        },
+
+        {
+            "key": 13,
+            "name": "VTU Fest 2024",
+            "doe" : "March 2024",
+            "desc": "TAB's Stage play and Mine team participated in VTU fest 2024",
+            "isLive": false,
+            "bannerLink": "https://i.ibb.co/LdqvhDQ/VTU-fest.png",
+            "regLink": "",
+            "photosLink": [
+                "https://i.ibb.co/Jsh9qCh/vtu2.jpg","https://i.ibb.co/mB6rJvc/vtu1.jpg"
+            ],
+            "winners": []
+        },
+
+        {
+            "key": 14,
+            "name": "Aura 2024",
+            "doe" : "28/11/2024",
+            "desc": "Take a Bow Presents: Aura 2024 Events Improv Challenge: Think on your feet and deliver spontaneous as well as hilarious performances based on surprise prompts. Team up in pairs or let us pair you!\n\nMonoact: Step into the spotlight solo and captivate the audience with your creativity and expressions in 3-5 minutes.\n\nWhy Join?\nShowcase your talent, win accolades, and create unforgettable memories on stage. Whether you're seasoned or a beginner, the stage is yours to own.\n\nRegister now and make your mark at Aura 2024!",
+            "isLive": true,
+            "bannerLink": "https://i.ibb.co/LYSPwp4/Mix-Collage-16-Nov-2024-09-27-PM-7007.jpg",
+            "regLink": "/view-event",
+            "photosLink": [
+
+            ],
+            "winners": []
+        }
+    ]
+}
